@@ -1,6 +1,3 @@
-# ai-fraud-detection-platform
-Production-style AI fraud detection platform with ML scoring API, synthetic transaction simulation
-
 # AI Fraud Detection Platform
 
 A production-style AI fraud detection platform built with FastAPI, Python, and scikit-learn.
